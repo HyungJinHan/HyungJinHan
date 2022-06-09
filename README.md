@@ -4,6 +4,8 @@
 
  # 👋 Introduce 👋
  
+ <img src="https://github.com/HyungJinHan/HyungJinHan/issues/2#issue-1266483499">
+ 
  <b><br>안녕하세요! 한형진입니다! 🙋‍♂️
   
  <br>개발자가 되기 위해 노력하고 있습니다.
