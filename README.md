@@ -2,6 +2,8 @@
  <img src="https://capsule-render.vercel.app/api?type=slice&color=424242&height=300&section=header&text=Hello,%20World!&fontSize=90&fontAlign=60&fontAlignY=37.5&fontColor=FFFFFF&desc=😁HyungJin's GitHub Profile&descAlign=78&descAlignY=55&animation=twinkling&rotate=19.5">
 </p>
 
+<div align=center>
+
  # 👋 Introduce 👋
  
  <img src="https://user-images.githubusercontent.com/104360734/172914566-d48bc407-5401-441d-b049-ae66019d93d4.gif" width="53.5%" height="53.5%">
@@ -17,19 +19,19 @@
  <a href='https://hyungjinhan.github.io/Study-Coding-Memo/index.html' target="_blank"> <img src="https://img.shields.io/badge/HyungJin's Coding Note-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyungJinHan&count_bg=7B7B7B&title_bg=%23181717&icon=GitHub&icon_color=E7E7E7&title=Click👍&edge_flat=true)](https://github.com/HyungJinHan)<br>
  
- <br>
+ </div>
+ 
+ # 👋 Contact 👋
  
  ### 📧 E-mail 📧
  [<img src="https://img.shields.io/badge/han1210&#95;_36@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white">](https://www.naver.com/)&nbsp;
  [<img src="https://img.shields.io/badge/hhj961210@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white">](https://mail.google.com/mail/)
  
- <br>
- 
  ### 💬 SNS 💬
  [<img src="https://img.shields.io/badge/한형진-1877F2?style=flat-square&logo=Facebook&logoColor=white">](https://www.facebook.com/)&nbsp;
  [<img src="https://img.shields.io/badge/han1210&#95;_36@naver.com-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=424242">](https://www.kakaocorp.com/page/service/service/KakaoTalk)
- 
- <br><br>
+
+ <div align=right>
 
  # 📚 Studying Skills 📚
  
@@ -49,6 +51,8 @@
  
  <br><br>
  
+ </div>
+ 
  # 🛠️ Using Tools 🛠️
  
  [<img src="https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=Atom&logoColor=white">](https://atom.io/)&nbsp;
@@ -58,11 +62,15 @@
  
  <br><br>
  
+ <div align=right>
+ 
  # 💻 Using Platforms 💻
  
  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white">&nbsp;
  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp;
  <img src="https://img.shields.io/badge/Google Chrome-4285F4?style=flat-square&logo=Google Chrome&logoColor=white">
+ </div>
+
 <!-- <p align="left">
  <img src="https://capsule-render.vercel.app/api?type=slice&color=424242&height=300&section=footer&text=See Ya,%20World!&fontSize=90&fontAlign=45&fontAlignY=66&fontColor=FFFFFF&desc=HyungJin's GitHub Profile&descAlign=66&descAlignY=45.5&animation=twinkling&rotate=19.5">
 </p> -->
