@@ -8,9 +8,9 @@
  
  <img src="https://user-images.githubusercontent.com/104360734/172914566-d48bc407-5401-441d-b049-ae66019d93d4.gif" width="80%" height="80%">
  
- <b>안녕하세요! 한형진입니다! 🙋‍♂️
+ <br><b>안녕하세요! 한형진입니다! 🙋‍♂️
   
- <br>개발자가 되기 위해 노력하고 있습니다.
+ 개발자가 되기 위해 노력하고 있습니다.
  <br>Front-end, Back-end 모두 관심을 가지고 있으며 끊임없이 노력하고
  <br>무엇이든 배우려는 사람이 되고자 열심히 공부하고 있습니다!
  
@@ -21,19 +21,19 @@
  
  </div>
  
- # 👋 Contact 👋
+ # Contact 📞
  
- ### 📧 E-mail 📧
+ ### E-mail 📧
  [<img src="https://img.shields.io/badge/han1210&#95;_36@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white">](https://www.naver.com/)&nbsp;
  [<img src="https://img.shields.io/badge/hhj961210@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white">](https://mail.google.com/mail/)
  
- ### 💬 SNS 💬
+ ### SNS 💬
  [<img src="https://img.shields.io/badge/한형진-1877F2?style=flat-square&logo=Facebook&logoColor=white">](https://www.facebook.com/)&nbsp;
  [<img src="https://img.shields.io/badge/han1210&#95;_36@naver.com-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=424242">](https://www.kakaocorp.com/page/service/service/KakaoTalk)
 
  <div align=right>
 
- # 📚 Studying Skills 📚
+ # ✏️ Studying Skills
  
  <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyungJinHan&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)-->
  
@@ -53,7 +53,7 @@
  
  </div>
  
- # 🛠️ Using Tools 🛠️
+ # Using Tools 🛠️
  
  [<img src="https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=Atom&logoColor=white">](https://atom.io/)&nbsp;
  [<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white">](https://www.eclipse.org/downloads/)&nbsp;
@@ -64,7 +64,7 @@
  
  <div align=right>
  
- # 💻 Using Platforms 💻
+ # 💻 Using Platforms
  
  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white">&nbsp;
  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp;
