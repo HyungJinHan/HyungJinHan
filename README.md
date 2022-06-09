@@ -29,8 +29,8 @@
  <br>
  
  <img src="https://img.shields.io/badge/🖱️ Click me-181717?style=for-the-badge&logoColor=white">
- <a href='https://hyungjinhan.github.io/Study-Coding-Memo/index.html' target="_blank" class="menu">
- <img src="https://img.shields.io/badge/HyungJin's Coding Note-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
+ <a href='https://hyungjinhan.github.io/Study-Coding-Memo/index.html' target="_blank">
+ <img src="https://img.shields.io/badge/HyungJin's Coding Note-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>{: target="_blank"}
  <img src="https://img.shields.io/badge/Click me 🖱️-181717?style=for-the-badge&logoColor=white">
  <br><br><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">&nbsp;
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">&nbsp;
