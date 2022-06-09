@@ -21,7 +21,7 @@
  
  ### 📧 E-mail 📧
  [<img src="https://img.shields.io/badge/han1210&#95;_36@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white">](https://www.naver.com/)&nbsp;
- [<img src="https://img.shields.io/badge/hhj961210@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white">](https://www.google.com/)
+ [<img src="https://img.shields.io/badge/hhj961210@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white">](https://mail.google.com/mail/)
  
  <br>
  
