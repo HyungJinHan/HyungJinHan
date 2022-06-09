@@ -1,5 +1,5 @@
 <p align="right">
- <img src="https://capsule-render.vercel.app/api?type=slice&color=424242&height=300&section=header&text=Hello,%20World!&fontSize=90&fontAlign=60&fontAlignY=37.5&fontColor=FFFFFF&desc=HyungJin's GitHub Profile&descAlign=78&descAlignY=55&animation=twinkling&rotate=19.5">
+ <img src="https://capsule-render.vercel.app/api?type=slice&color=424242&height=300&section=header&text=Hello,%20World!&fontSize=90&fontAlign=60&fontAlignY=37.5&fontColor=FFFFFF&desc=HyungJin's GitHub Profile &descAlign=78&descAlignY=55&animation=twinkling&rotate=19.5">
 </p>
 
  # 👋 Introduce 👋
@@ -12,22 +12,20 @@
  
  부족한 실력으로 만들어진 간단한 웹 페이지로 코딩 공부하는 노트 필기 웹입니다.</b>
  
- <img src="https://img.shields.io/badge/🖱️ Click me-181717?style=flat-square&logoColor=white">
- <a href='https://hyungjinhan.github.io/Study-Coding-Memo/index.html' target="_blank">
- <img src="https://img.shields.io/badge/HyungJin's Coding Note-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
- <img src="https://img.shields.io/badge/Click me 🖱️-181717?style=flat-square&logoColor=white"><br>
+ <img src="https://img.shields.io/badge/🖱️ Click me-181717?style=flat-square&logoColor=white"> <a href='https://hyungjinhan.github.io/Study-Coding-Memo/index.html' target="_blank"> <img src="https://img.shields.io/badge/HyungJin's Coding Note-181717?style=flat-square&logo=GitHub&logoColor=white"></a> <img src="https://img.shields.io/badge/Click me 🖱️-181717?style=flat-square&logoColor=white"><br>
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyungJinHan&count_bg=7B7B7B&title_bg=%23181717&icon=GitHub&icon_color=E7E7E7&title=Click🖱️&edge_flat=true)](https://github.com/HyungJinHan)
  
  <br>
  
  ### 📧 E-mail 📧
  <br>[<img src="https://img.shields.io/badge/han1210&#95;_36@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white">](https://www.naver.com/)&nbsp;
- <img src="https://img.shields.io/badge/hhj961210@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+ [<img src="https://img.shields.io/badge/hhj961210@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white">](https://www.google.com/)
  
  <br>
  
  ### 💬 SNS 💬
- <br><img src="https://img.shields.io/badge/한형진-1877F2?style=flat-square&logo=Facebook&logoColor=white">&nbsp;
- <img src="https://img.shields.io/badge/han1210&#95;_36@naver.com-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=424242">
+ <br>[<img src="https://img.shields.io/badge/한형진-1877F2?style=flat-square&logo=Facebook&logoColor=white">](https://www.facebook.com/)&nbsp;
+ [<img src="https://img.shields.io/badge/han1210&#95;_36@naver.com-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=424242">](https://www.kakaocorp.com/page/service/service/KakaoTalk)
  
  <br><br>
 
@@ -53,10 +51,10 @@
  
  <br>
  
- <img src="https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=Atom&logoColor=white">&nbsp;
- <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white">&nbsp;
- <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white">&nbsp;
- <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">
+ [<img src="https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=Atom&logoColor=white">](https://atom.io/)&nbsp;
+ [<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white">](https://www.eclipse.org/downloads/)&nbsp;
+ [<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white">](https://visualstudio.microsoft.com/ko/vs/)&nbsp;
+ [<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">](https://code.visualstudio.com/?wt.mc_id=DX_841432)
  
  <br><br>
  
@@ -74,14 +72,12 @@
  
  <br>
  
- </p>
- 
- <div align=center>
- [![HyungJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyungJinHan&show_icons=true&theme=nord)
+  [![HyungJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyungJinHan&show_icons=true&theme=nord)
 ](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyungJinHan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- </div>
-
+ 
+ </p>
+ 
 <!-- <p align="left">
  <img src="https://capsule-render.vercel.app/api?type=slice&color=424242&height=300&section=footer&text=See Ya,%20World!&fontSize=90&fontAlign=45&fontAlignY=66&fontColor=FFFFFF&desc=HyungJin's GitHub Profile&descAlign=66&descAlignY=45.5&animation=twinkling&rotate=19.5">
 </p> -->
