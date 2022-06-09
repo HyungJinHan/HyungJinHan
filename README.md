@@ -20,7 +20,7 @@
  <br>
  
  ### 📧 E-mail 📧
- <br><img src="https://img.shields.io/badge/han1210&#95;_36@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white">&nbsp;
+ <br>[<img src="https://img.shields.io/badge/han1210&#95;_36@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white">](https://www.naver.com/)&nbsp;
  <img src="https://img.shields.io/badge/hhj961210@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white">
  
  <br>
@@ -76,7 +76,7 @@
  
  </p>
  
- <div align="center">
+ <div align=center>
  [![HyungJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyungJinHan&show_icons=true&theme=nord)
 ](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyungJinHan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
