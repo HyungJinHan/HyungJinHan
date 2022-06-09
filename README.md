@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=autoe&height=300&section=header&text=Welcome&fontSize=90&fontColor=FFFFFF"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=autoe&height=300&section=header&text=Welcome&fontSize=90&fontColor=FFFFFF&fontSize=40&desc=Desc&descSize=30"/>
 
 Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
 AngularJS-powered HTML5 Markdown editor.
