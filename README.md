@@ -1,5 +1,5 @@
 <p align="right">
- <img src="https://capsule-render.vercel.app/api?type=slice&color=424242&height=300&section=header&text=Hello,%20World!&fontSize=90&fontAlign=60&fontAlignY=37.5&fontColor=FFFFFF&desc=HyungJin's GitHub Profile &descAlign=78&descAlignY=55&animation=twinkling&rotate=19.5">
+ <img src="https://capsule-render.vercel.app/api?type=slice&color=424242&height=300&section=header&text=Hello,%20World!&fontSize=90&fontAlign=60&fontAlignY=37.5&fontColor=FFFFFF&desc=😁HyungJinHan / README.md&descAlign=78&descAlignY=55&animation=twinkling&rotate=19.5">
 </p>
 
  # 👋 Introduce 👋
@@ -35,6 +35,8 @@
  
  <br>
  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyungJinHan&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+ 
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">&nbsp;
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">&nbsp;
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=424242">&nbsp;
@@ -46,8 +48,6 @@
  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white">&nbsp;
  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">&nbsp;
  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white">
- 
- <img src=https://user-images.githubusercontent.com/104360734/172916343-1a713e0a-4594-4a1c-97af-b9ef48d2de6d.gif>
  
  <br><br>
  
@@ -69,16 +69,6 @@
  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white">&nbsp;
  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp;
  <img src="https://img.shields.io/badge/Google Chrome-4285F4?style=flat-square&logo=Google Chrome&logoColor=white">
- 
- <br><br>
- 
- # 📊 My GitHub Stats 📊
- 
- <br>
- 
-  [![HyungJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyungJinHan&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyungJinHan&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-
- 
 <!-- <p align="left">
  <img src="https://capsule-render.vercel.app/api?type=slice&color=424242&height=300&section=footer&text=See Ya,%20World!&fontSize=90&fontAlign=45&fontAlignY=66&fontColor=FFFFFF&desc=HyungJin's GitHub Profile&descAlign=66&descAlignY=45.5&animation=twinkling&rotate=19.5">
 </p> -->
