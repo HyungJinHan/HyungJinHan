@@ -1,22 +1,30 @@
 <p align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=424242&height=300&section=header&text=Hello,%20World!&fontSize=90&fontAlignY=45&fontColor=FFFFFF&desc=HyungJin's GitHub Profile&descAlign=65&descAlignY=57&animation=fadeIn&">
+ <img src="https://capsule-render.vercel.app/api?type=slice&color=424242&height=300&section=header&text=Hello,%20World!&fontSize=90&fontAlignY=45&fontColor=FFFFFF&desc=HyungJin's GitHub Profile&descAlign=70&descAlignY=60&animation=twinkling">
 </p>
 
 <div align="center">
 
-### 👋 Introduce 👋
+ # 👋 Introduce 👋
  
- <br>안녕하세요! 🙋‍♂️<br>
+ <b><br>안녕하세요! 🙋‍♂️<br>
  한형진이라고 하고, 개발자가 되기 위해 노력하고 있습니다!<br>
- 끊임없이 노력하고, 무엇이든 배우려는 사람이 되고자 열심히 공부하고 있습니다!
+ 끊임없이 노력하고, 무엇이든 배우려는 사람이 되고자 열심히 공부하고 있습니다!</b>
  
- <br>📧 E-mail 📧
- <br>han1210_36@naver.com
+ <br>
+ 
+ ### 📧 E-mail 📧
+ han1210_36@naver.com
  <br>hhj961210@gmail.com
+ 
+ <br>
+ 
+ ### 💬 SNS 💬
+ <br><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white">&nbsp;
+ <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=KakaoTalk&logoColor=424242">
  
  <br><br>
 
-### 📚 Studying 📚
+ # 📚 Studying 📚
  
  <br><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">&nbsp;
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">&nbsp;
@@ -31,7 +39,7 @@
  
  <br><br>
  
- ### 🛠️ Using Tool 🛠️
+ # 🛠️ Using Tool 🛠️
  
  <br><img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white">&nbsp;
  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white">&nbsp;
@@ -39,16 +47,21 @@
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
  
  <br><br>
- 
-### 💻 Using Platform 💻
+ # 💻 Using Platform 💻
  
  <br><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white">
  
  <br><br>
  
-### 📊 My GitHub Stats 📊
+ # 📊 My GitHub Stats 📊
  
  <br>[![HyungJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyungJin&show_icons=true&theme=nord)
 ](https://github.com/anuraghazra/github-readme-stats)
+ 
+ <br>
 
+</p>
+
+<p align="center">
+ <img src="https://capsule-render.vercel.app/api?type=slice&color=424242&height=300&section=footer&text=See ya,%20World!&fontSize=90&fontAlignY=45&fontColor=FFFFFF&desc=HyungJin's GitHub Profile&descAlign=73&descAlignY=60&animation=twinkling">
 </p>
