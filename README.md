@@ -12,8 +12,8 @@
  
  부족한 실력으로 만들어진 간단한 웹 페이지로 코딩 공부하는 노트 필기 웹입니다.</b>
  
- <img src="https://img.shields.io/badge/🖱️ Click me-181717?style=flat-square&logoColor=white"> <a href='https://hyungjinhan.github.io/Study-Coding-Memo/index.html' target="_blank"> <img src="https://img.shields.io/badge/HyungJin's Coding Note-181717?style=flat-square&logo=GitHub&logoColor=white"></a> <img src="https://img.shields.io/badge/Click me 🖱️-181717?style=flat-square&logoColor=white"><br>
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyungJinHan&count_bg=7B7B7B&title_bg=%23181717&icon=GitHub&icon_color=E7E7E7&title=Click🖱️&edge_flat=true)](https://github.com/HyungJinHan)
+ <a href='https://hyungjinhan.github.io/Study-Coding-Memo/index.html' target="_blank"> <img src="https://img.shields.io/badge/HyungJin's Coding Note-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyungJinHan&count_bg=7B7B7B&title_bg=%23181717&icon=GitHub&icon_color=E7E7E7&title=Click👍&edge_flat=true)](https://github.com/HyungJinHan)<br>
  
  <br>
  
@@ -72,11 +72,11 @@
  
  <br>
  
-  [![HyungJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyungJinHan&show_icons=true&theme=nord)
-](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyungJinHan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ <div align=center>
  
- </p>
+  [![HyungJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyungJinHan&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyungJinHan&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ </div>
  
 <!-- <p align="left">
  <img src="https://capsule-render.vercel.app/api?type=slice&color=424242&height=300&section=footer&text=See Ya,%20World!&fontSize=90&fontAlign=45&fontAlignY=66&fontColor=FFFFFF&desc=HyungJin's GitHub Profile&descAlign=66&descAlignY=45.5&animation=twinkling&rotate=19.5">
