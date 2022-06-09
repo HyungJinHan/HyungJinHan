@@ -74,11 +74,7 @@
  
  [![HyungJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyungJinHan&show_icons=true&theme=nord)
 ](https://github.com/anuraghazra/github-readme-stats)
- 
- <br>
-
 </p>
-
 <!-- <p align="left">
  <img src="https://capsule-render.vercel.app/api?type=slice&color=424242&height=300&section=footer&text=See Ya,%20World!&fontSize=90&fontAlign=45&fontAlignY=66&fontColor=FFFFFF&desc=HyungJin's GitHub Profile&descAlign=66&descAlignY=45.5&animation=twinkling&rotate=19.5">
 </p> -->
