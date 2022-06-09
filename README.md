@@ -1,5 +1,5 @@
 <p align="right">
- <img src="https://capsule-render.vercel.app/api?type=slice&color=424242&height=300&section=header&text=Hello,%20World!&fontSize=90&fontAlign=60&fontAlignY=37.5&fontColor=FFFFFF&desc=😁HyungJinHan / README.md&descAlign=78&descAlignY=55&animation=twinkling&rotate=19.5">
+ <img src="https://capsule-render.vercel.app/api?type=slice&color=424242&height=300&section=header&text=Hello,%20World!&fontSize=90&fontAlign=60&fontAlignY=37.5&fontColor=FFFFFF&desc=😁HyungJin's GitHub Profile&descAlign=78&descAlignY=55&animation=twinkling&rotate=19.5">
 </p>
 
  # 👋 Introduce 👋
