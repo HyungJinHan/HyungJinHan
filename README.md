@@ -4,9 +4,7 @@
 
  # 👋 Introduce 👋
  
- <p align="center">
- <img src="https://user-images.githubusercontent.com/104360734/172914566-d48bc407-5401-441d-b049-ae66019d93d4.gif" width="60%" height="60%">
- </p>
+ <img src="https://user-images.githubusercontent.com/104360734/172914566-d48bc407-5401-441d-b049-ae66019d93d4.gif" width="53.5%" height="53.5%">
  
  <b><br>안녕하세요! 한형진입니다! 🙋‍♂️
   
@@ -18,6 +16,8 @@
  
  <a href='https://hyungjinhan.github.io/Study-Coding-Memo/index.html' target="_blank"> <img src="https://img.shields.io/badge/HyungJin's Coding Note-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyungJinHan&count_bg=7B7B7B&title_bg=%23181717&icon=GitHub&icon_color=E7E7E7&title=Click👍&edge_flat=true)](https://github.com/HyungJinHan)<br>
+ 
+ <img src=https://user-images.githubusercontent.com/104360734/172916343-1a713e0a-4594-4a1c-97af-b9ef48d2de6d.gif>
  
  <br>
  
