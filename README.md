@@ -14,22 +14,22 @@
  
  부족한 실력으로 만들어진 간단한 웹 페이지로 코딩 공부하는 노트 필기 웹입니다.</b>
  
- <img src="https://img.shields.io/badge/🖱️ Click me-181717?style=for-the-badge&logoColor=white">
+ <img src="https://img.shields.io/badge/🖱️ Click me-181717?style=flat-square&logoColor=white">
  <a href='https://hyungjinhan.github.io/Study-Coding-Memo/index.html' target="_blank">
- <img src="https://img.shields.io/badge/HyungJin's Coding Note-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
- <img src="https://img.shields.io/badge/Click me 🖱️-181717?style=for-the-badge&logoColor=white"><br>
+ <img src="https://img.shields.io/badge/HyungJin's Coding Note-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+ <img src="https://img.shields.io/badge/Click me 🖱️-181717?style=flat-square&logoColor=white"><br>
  
  <br>
  
  ### 📧 E-mail 📧
- <br><img src="https://img.shields.io/badge/han1210_36@naver.com-03C75A?style=for-the-badge&logo=Naver&logoColor=white">&nbsp;
- <img src="https://img.shields.io/badge/hhj961210@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+ <br><img src="https://img.shields.io/badge/han1210&#95;_36@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white">&nbsp;
+ <img src="https://img.shields.io/badge/hhj961210@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white">
  
  <br>
  
  ### 💬 SNS 💬
- <br><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white">&nbsp;
- <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=KakaoTalk&logoColor=424242">
+ <br><img src="https://img.shields.io/badge/한형진-1877F2?style=flat-square&logo=Facebook&logoColor=white">&nbsp;
+ <img src="https://img.shields.io/badge/han1210&#95;_36@naver.com-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=424242">
  
  <br><br>
 
@@ -37,18 +37,17 @@
  
  <br>
  
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">&nbsp;
- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">&nbsp;
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=424242">&nbsp;
- <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">&nbsp;
- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">&nbsp;
- <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=Ruby&logoColor=white">&nbsp;
- <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white">&nbsp;
- <br><br><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=424242">&nbsp;
- <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white">&nbsp;
- <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">&nbsp;
- <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
- ![GitHub followers](https://img.shields.io/github/followers/facebook?logo=facebook&style=for-the-badge)
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">&nbsp;
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">&nbsp;
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=424242">&nbsp;
+ <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">&nbsp;
+ <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">&nbsp;
+ <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white">&nbsp;
+ <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white">&nbsp;
+ <br><br><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=424242">&nbsp;
+ <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white">&nbsp;
+ <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">&nbsp;
+ <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white">
  
  <br><br>
  
@@ -56,10 +55,10 @@
  
  <br>
  
- <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white">&nbsp;
- <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white">&nbsp;
- <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white">&nbsp;
- <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
+ <img src="https://img.shields.io/badge/Atom-66595C?style=flat-square&logo=Atom&logoColor=white">&nbsp;
+ <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white">&nbsp;
+ <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white">&nbsp;
+ <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">
  
  <br><br>
  
@@ -67,8 +66,9 @@
  
  <br>
  
- <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white">&nbsp;
- <img src="https://img.shields.io/badge/Google Chrome-4285F4?style=for-the-badge&logo=Google Chrome&logoColor=white">
+ <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white">&nbsp;
+ <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>&nbsp;
+ <img src="https://img.shields.io/badge/Google Chrome-4285F4?style=flat-square&logo=Google Chrome&logoColor=white">
  
  <br><br>
  
