@@ -79,6 +79,6 @@
 
 </p>
 
-<p align="left">
- <img src="https://capsule-render.vercel.app/api?type=slice&color=424242&height=300&section=footer&text=See Ya,%20World!&fontSize=90&fontAlign=45&fontAlignY=66&fontColor=FFFFFF&desc=HyungJin's GitHub Profile&descAlign=66&descAlignY=45.5&animation=twinkling&rotate=19.5">
-</p>
+// <p align="left">
+ // <img src="https://capsule-render.vercel.app/api?type=slice&color=424242&height=300&section=footer&text=See Ya,%20World!&fontSize=90&fontAlign=45&fontAlignY=66&fontColor=FFFFFF&desc=HyungJin's GitHub Profile&descAlign=66&descAlignY=45.5&animation=twinkling&rotate=19.5">
+// </p>
