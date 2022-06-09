@@ -48,6 +48,7 @@
  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white">&nbsp;
  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">&nbsp;
  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
+ ![GitHub followers](https://img.shields.io/github/followers/facebook?logo=facebook&style=for-the-badge)
  
  <br><br>
  
