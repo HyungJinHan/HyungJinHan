@@ -6,7 +6,7 @@
 
  # 👋 Introduce 👋
  
- <img src="https://user-images.githubusercontent.com/104360734/172914566-d48bc407-5401-441d-b049-ae66019d93d4.gif" width="53.5%" height="53.5%">
+ <img src="https://user-images.githubusercontent.com/104360734/172914566-d48bc407-5401-441d-b049-ae66019d93d4.gif" width="80%" height="80%">
  
  <b>안녕하세요! 한형진입니다! 🙋‍♂️
   
