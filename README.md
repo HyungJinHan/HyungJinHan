@@ -30,7 +30,7 @@
  
  <img src="https://img.shields.io/badge/🖱️ Click me-181717?style=for-the-badge&logoColor=white">
  <a href='https://hyungjinhan.github.io/Study-Coding-Memo/index.html' target="_blank">
- <img src="https://img.shields.io/badge/HyungJin's Coding Note-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>{: target="_blank"}
+ <img src="https://img.shields.io/badge/HyungJin's Coding Note-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
  <img src="https://img.shields.io/badge/Click me 🖱️-181717?style=for-the-badge&logoColor=white">
  <br><br><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">&nbsp;
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">&nbsp;
@@ -42,6 +42,7 @@
  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">&nbsp;
  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">&nbsp;
  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
+ <br><br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyungJinHan)](https://github.com/anuraghazra/github-readme-stats)
  
  <br><br>
  
@@ -68,7 +69,7 @@
  
  <br>
  
- [![HyungJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyungJin&show_icons=true&theme=nord)
+ [![HyungJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyungJinHan&show_icons=true&theme=nord)
 ](https://github.com/anuraghazra/github-readme-stats)
  
  <br>
