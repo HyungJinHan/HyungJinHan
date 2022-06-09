@@ -31,6 +31,8 @@
  [<img src="https://img.shields.io/badge/한형진-1877F2?style=flat-square&logo=Facebook&logoColor=white">](https://www.facebook.com/)&nbsp;
  [<img src="https://img.shields.io/badge/han1210&#95;_36@naver.com-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=424242">](https://www.kakaocorp.com/page/service/service/KakaoTalk)
 
+ <br><br>
+
  <div align=right>
 
  # ✏️ Studying Skills
