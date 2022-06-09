@@ -3,8 +3,20 @@
 </p>
 
 <div align="center">
+
+### 👋 Introduce 👋
  
-# 📚 Studying 📚
+ <br>안녕하세요! 🙋‍♂️<br>
+ 한형진이라고 하고, 개발자가 되기 위해 노력하고 있습니다!<br>
+ 끊임없이 노력하고, 무엇이든 배우려는 사람이 되고자 열심히 공부하고 있습니다!
+ 
+ <br>📧 E-mail 📧
+ <br>han1210_36@naver.com
+ <br>hhj961210@gmail.com
+ 
+ <br><br>
+
+### 📚 Studying 📚
  
  <br><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">&nbsp;
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">&nbsp;
@@ -19,8 +31,7 @@
  
  <br><br>
  
- # 🛠️ Using Tool 🛠️
- ### 🛠️ Tool 🛠️
+ ### 🛠️ Using Tool 🛠️
  
  <br><img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white">&nbsp;
  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white">&nbsp;
@@ -29,13 +40,13 @@
  
  <br><br>
  
-# 💻 Using Platform 💻
+### 💻 Using Platform 💻
  
  <br><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white">
  
  <br><br>
  
-# 📊 My GitHub Stats 📊
+### 📊 My GitHub Stats 📊
  
  <br>[![HyungJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyungJin&show_icons=true&theme=nord)
 ](https://github.com/anuraghazra/github-readme-stats)
