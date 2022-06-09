@@ -4,7 +4,9 @@
 
  # 👋 Introduce 👋
  
- <img src="https://github.com/HyungJinHan/HyungJinHan/issues/2#issue-1266483499">
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/104360734/172914566-d48bc407-5401-441d-b049-ae66019d93d4.gif" width="60%" height="60%">
+ </p>
  
  <b><br>안녕하세요! 한형진입니다! 🙋‍♂️
   
