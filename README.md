@@ -6,9 +6,9 @@
 
  # 👋 Introduce 👋
  
- <b><br>안녕하세요! 🙋‍♂️<br>
- 한형진이라고 하고, 개발자가 되기 위해 노력하고 있습니다!<br>
- 끊임없이 노력하고, 무엇이든 배우려는 사람이 되고자 열심히 공부하고 있습니다!</b>
+ <b><br> 안녕하세요! 🙋‍♂️
+ <br>한형진이라고 하고, 개발자가 되기 위해 노력하고 있습니다!
+ <br>끊임없이 노력하고, 무엇이든 배우려는 사람이 되고자 열심히 공부하고 있습니다!</b>
  
  <br>
  
@@ -26,8 +26,12 @@
 
  # 📚 Studying 📚
  
- <br><a href='https://hyungjinhan.github.io/Study-Coding-Memo/index.html' target="_blank" class="menu">
- <img src="https://img.shields.io/badge/코딩 연습장-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
+ <br>
+ 
+ <img src="https://img.shields.io/badge/🖱️ Click me-181717?style=for-the-badge&logoColor=white">
+ <a href='https://hyungjinhan.github.io/Study-Coding-Memo/index.html' target="_blank" class="menu">
+ <img src="https://img.shields.io/badge/HyungJin's Coding Note-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>
+ <img src="https://img.shields.io/badge/Click me 🖱️-181717?style=for-the-badge&logoColor=white">
  <br><br><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">&nbsp;
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">&nbsp;
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=424242">
@@ -43,21 +47,28 @@
  
  # 🛠️ Using Tool 🛠️
  
- <br><img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white">&nbsp;
+ <br>
+ 
+ <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white">&nbsp;
  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white">&nbsp;
  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=Visual Studio&logoColor=white">&nbsp;
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
  
  <br><br>
+ 
  # 💻 Using Platform 💻
  
- <br><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white">
+ <br>
+ 
+ <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white">
  
  <br><br>
  
  # 📊 My GitHub Stats 📊
  
- <br>[![HyungJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyungJin&show_icons=true&theme=nord)
+ <br>
+ 
+ [![HyungJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyungJin&show_icons=true&theme=nord)
 ](https://github.com/anuraghazra/github-readme-stats)
  
  <br>
