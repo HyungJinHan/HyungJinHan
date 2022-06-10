@@ -16,7 +16,7 @@
  
  부족한 실력으로 만들어진 간단한 웹 페이지로 코딩 공부하는 노트 필기 웹입니다.</b>
  
- <a href='https://hyungjinhan.github.io/Atom/연습장/index.html' target="_blank"> <img src="https://img.shields.io/badge/HyungJin's Coding Note-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+ <a href='https://hyungjinhan.github.io/Atom/' target="_blank"> <img src="https://img.shields.io/badge/HyungJin's Coding Note-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyungJinHan&count_bg=7B7B7B&title_bg=%23181717&icon=GitHub&icon_color=E7E7E7&title=Click👍&edge_flat=true)](https://github.com/HyungJinHan)<br>
  
  </div>
