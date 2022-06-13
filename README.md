@@ -30,8 +30,9 @@
  [<img src="https://img.shields.io/badge/hhj961210@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white">](https://mail.google.com/mail/)
  
  ### SNS 💬
- [<img src="https://img.shields.io/badge/한형진-1877F2?style=flat-square&logo=Facebook&logoColor=white">](https://www.facebook.com/)&nbsp;
- [<img src="https://img.shields.io/badge/han1210&#95;_36@naver.com-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=424242">](https://www.kakaocorp.com/page/service/service/KakaoTalk)
+ [<img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=velog&logoColor=white">](https://velog.io/@hyungjin_han)&nbsp;
+ [<img src="https://img.shields.io/badge/한형진-1877F2?style=flat-square&logo=Facebook&logoColor=white">](https://www.facebook.com/hyeongjinh1)&nbsp;
+ <img src="https://img.shields.io/badge/han1210&#95;_36@naver.com-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=424242">
 
  <br><br>
 
