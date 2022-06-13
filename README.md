@@ -44,17 +44,17 @@
  
  <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyungJinHan&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)-->
  
- <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">&nbsp;
- <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">&nbsp;
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=424242">&nbsp;
- <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">&nbsp;
- <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">&nbsp;
- <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white">&nbsp;
- <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white">&nbsp;
- <br><br><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=424242">&nbsp;
- <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white">&nbsp;
- <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">&nbsp;
- <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white">
+ [<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">](https://developer.mozilla.org/ko/docs/Learn/HTML/Introduction_to_HTML/Getting_started)&nbsp;
+ [<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">](https://developer.mozilla.org/ko/docs/Web/CSS)&nbsp;
+ [<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=424242">](https://developer.mozilla.org/ko/docs/Web/JavaScript)&nbsp;
+ [<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">](https://www.oracle.com/java/technologies/downloads/#jdk18-windows)&nbsp;
+ [<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">](https://www.python.org/)&nbsp;
+ [<img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white">](https://rubyinstaller.org/downloads/)&nbsp;
+ [<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white">](https://www.php.net/)&nbsp;
+ <br><br>[<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=424242">](http://www.tcpschool.com/c/intro)&nbsp;
+ [<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white">](http://www.tcpschool.com/cpp/intro)&nbsp;
+ [<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">](https://nodejs.org/ko/)&nbsp;
+ [<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white">](https://jquery.com/)
  
  <br><br>
  
