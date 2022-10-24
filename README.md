@@ -1,10 +1,12 @@
 <div align=center>
 
  ![header](https://capsule-render.vercel.app/api?type=slice&color=424242&height=300&section=header&text=Hello,%20World!&fontSize=90&fontAlign=60&fontAlignY=37.5&fontColor=FFFFFF&desc=😁HyungJin's%20GitHub%20Profile&descAlign=78&descAlignY=55&animation=twinkling&rotate=19.5)
- 
+
  # 👋 Introduce 👋
- 
- <img src="https://user-images.githubusercontent.com/104360734/172914566-d48bc407-5401-441d-b049-ae66019d93d4.gif" width="80%" height="80%">
+ <!-- <img src="https://user-images.githubusercontent.com/104360734/172914566-d48bc407-5401-441d-b049-ae66019d93d4.gif" width="30%" height="30%"> -->
+ ![terminal](https://user-images.githubusercontent.com/104360734/197514706-cca6a47b-39fa-4220-9f28-35afae64def3.gif)
+  
+ <!-- https://www.terminalgif.com/ -->
  
  <br><b>안녕하세요! 한형진입니다! 🙋‍♂️
   
