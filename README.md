@@ -14,10 +14,12 @@
  <br>Front-end, Back-end 모두 관심을 가지고 있으며 끊임없이 노력하고
  <br>무엇이든 배우려는 사람이 되고자 열심히 공부하고 있습니다!
  
+ <br>[포트폴리오 사이트 바로가기](https://hyungjinhan.github.io/)
+ 
  <!-- 부족한 실력으로 만들어진 간단한 웹 페이지로 코딩 공부하는 노트 필기 웹입니다.</b>
  
  <a href='https://hyungjinhan.github.io/Atom/' target="_blank"> <img src="https://img.shields.io/badge/HyungJin's Coding Note-181717?style=flat-square&logo=GitHub&logoColor=white"></a> -->
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyungJinHan&count_bg=7B7B7B&title_bg=%23181717&icon=GitHub&icon_color=E7E7E7&title=Click👍&edge_flat=true)](https://github.com/HyungJinHan)<br>
+ <br>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyungJinHan&count_bg=7B7B7B&title_bg=%23181717&icon=GitHub&icon_color=E7E7E7&title=Click👍&edge_flat=true)](https://github.com/HyungJinHan)<br>
  
  </div>
 
