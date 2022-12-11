@@ -23,6 +23,8 @@
  
  ![snake gif](https://github.com/HyungJinHan/HyungJinHan/blob/output/github-contribution-grid-snake.svg)
  
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyungJinHan)](https://github.com/anuraghazra/github-readme-stats)
+ 
  </div>
 
  <br><br>
