@@ -1,6 +1,6 @@
 <div align=center>
 
- ![header](https://capsule-render.vercel.app/api?type=slice&color=282c34&width=100%&height=300&section=header&text=Hello,%20World!&fontSize=90&fontAlign=60&fontAlignY=37.5&fontColor=FFFFFF&desc=😁HyungJin's%20GitHub%20Profile&descAlign=77&descAlignY=18&animation=twinkling&rotate=19.5)
+ ![header](https://capsule-render.vercel.app/api?type=slice&color=282c34&width=100%&height=300&section=header&text=Hello,%20World!&fontSize=90&fontAlign=60&fontAlignY=37.5&fontColor=FFFFFF&desc=😁HyungJin's%20GitHub%20Profile&descAlign=77&descAlignY=18&animation=twinkling&rotate=19.5&stroke=66CCFF&strokeWidth=3)
 
   <img src="https://user-images.githubusercontent.com/104360734/172914566-d48bc407-5401-441d-b049-ae66019d93d4.gif" width="70%">
 
@@ -75,6 +75,6 @@
  
 <div align=center>
  
-  ![header](https://capsule-render.vercel.app/api?type=slice&color=282c34&width=100%&height=300&section=footer&text=Contact%20Me!&fontSize=90&fontAlign=45&fontAlignY=66&fontColor=FFFFFF&desc=😁HyungJin's%20GitHub%20Profile&descAlign=30.5&descAlignY=80&animation=twinkling&rotate=19.5)
+  ![footer](https://capsule-render.vercel.app/api?type=slice&color=282c34&width=100%&height=300&section=footer&text=Contact%20Me!&fontSize=90&fontAlign=45&fontAlignY=66&fontColor=FFFFFF&desc=😁Thanks%20For%20Reading%20My%20Profile&descAlign=33&descAlignY=80&animation=twinkling&rotate=19.5&stroke=66CCFF&strokeWidth=3)
  
 </div>
