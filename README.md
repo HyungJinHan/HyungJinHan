@@ -21,6 +21,8 @@
  <a href='https://hyungjinhan.github.io/Atom/' target="_blank"> <img src="https://img.shields.io/badge/HyungJin's Coding Note-181717?style=flat-square&logo=GitHub&logoColor=white"></a> -->
  <br>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyungJinHan&count_bg=7B7B7B&title_bg=%23181717&icon=GitHub&icon_color=E7E7E7&title=Click👍&edge_flat=true)](https://github.com/HyungJinHan)<br>
  
+ ![snake gif](https://github.com/HyungJinHan/HyungJinHan/blob/output/github-contribution-grid-snake.svg)
+ 
  </div>
 
  <br><br>
