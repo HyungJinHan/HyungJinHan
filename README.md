@@ -10,7 +10,7 @@
 
 # Introduce 👋
   
-- ## About Me 🙋
+- ### About Me 🙋
   <b>안녕하세요! 한형진입니다!
     
   개발자가 되기 위해 노력하고 있습니다.
@@ -20,7 +20,7 @@
   무엇이든 배우려는 사람이 되고자 열심히 공부하고 있습니다!
   <br>
 
-- ## Contact 📞
+- ### Contact 📞
     <a href="mailto:han1210_36@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=han1210_36@naver.com"></a>
     &nbsp;
     <a href="mailto:hhj961210@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=hhj961210@gmail.com"></a>
@@ -30,7 +30,7 @@
     <a href='www.linkedin.com/in/hyungjinhan'><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
     <br>
  
--  ## My Site 🌐
+-  ### My Site 🌐
     <a href='https://velog.io/@hyungjin_han'><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=velog&logoColor=white"></a>
     &nbsp;
     <a href="https://hyungjinhan.github.io/"><img src="https://img.shields.io/badge/GitHub.io (Portfolio)-000000?style=flat-square&logo=github&logoColor=white"/></a>
@@ -38,28 +38,24 @@
     <br><br>
 
 # Tech Stacks & Tools 🛠️
-- ## Front-End
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=424242">&nbsp;
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black">&nbsp;
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
-    <br>
-
-- ## Back-End
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">&nbsp;
-    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white">&nbsp;
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
-    <br>
-
-- ## DataBase
-    <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white">
-    <br>
-
-- ## Tools
+- ### Tech Stacks
+  - Front-End :&nbsp;
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=424242">&nbsp;
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black">&nbsp;
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
+  - Back-End :&nbsp;
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">&nbsp;
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white">&nbsp;
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
+  - DataBase :&nbsp;
+      <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white">
+ 
+- ### Tools
     <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">&nbsp;
     <img src="https://img.shields.io/badge/Mysql Workbench-4479A1?style=flat-square&logo=Mysql&logoColor=white">&nbsp;
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">&nbsp;
-    [<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">](https://github.com/)&nbsp;
-    [<img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white">](https://www.heroku.com/)
+    <a href='https://github.com/HyungJinHan'><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a>&nbsp;
+    <a href='https://www.heroku.com/'><img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"></a>
     <br><br>
 
 # My GitHub Stats 🌱
