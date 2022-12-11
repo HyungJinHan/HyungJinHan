@@ -23,7 +23,8 @@
  
  ![snake gif](https://github.com/HyungJinHan/HyungJinHan/blob/output/github-contribution-grid-snake.svg)
  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyungJinHan)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyungJinHan&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
  
  </div>
 
