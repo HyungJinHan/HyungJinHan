@@ -8,7 +8,7 @@
 
 <br><br>
 
-# 👋 Introduce 👋
+## 👋 Introduce 👋
   
 - ### About Me 🙋
   <b>
@@ -40,7 +40,8 @@
     &nbsp;
     <br><br>
 
-# 🛠️ Tech Stacks & Tools 🛠️
+## 🛠️ Tech & Tools 🛠️
+
 - ### Tech Stacks
   - <b>Front-End :&nbsp;</b>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=424242">&nbsp;
@@ -61,7 +62,7 @@
     <a href='https://www.heroku.com/'><img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"></a>
     <br><br>
 
-# 🌱 My GitHub Stats 🌱
+## 🌱 My GitHub Stats 🌱
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HyungJinHan&show_icons=true&theme=react&hide=issues&line_height=24&include_all_commits=True&hide_border=True&border_radius=12&show_owner=True">
