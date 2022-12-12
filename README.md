@@ -65,8 +65,8 @@
 ## 🌱 My GitHub Stats 🌱
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HyungJinHan&show_icons=true&theme=react&hide=issues&line_height=24&include_all_commits=True&hide_border=True&border_radius=12&show_owner=True">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyungJinHan&layout=compact&theme=react&langs_count=6&hide_border=True&border_radius=12&show_owner=True">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=HyungJinHan&show_icons=true&theme=react&hide=issues&line_height=24&include_all_commits=True&hide_border=True&border_radius=12&show_owner=True">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyungJinHan&layout=compact&theme=react&langs_count=6&hide_border=True&border_radius=12&show_owner=True">
   <br/>
   <a href="https://github.com/Platane/snk" target='_blank'>
     <img align="center" src="https://github.com/HyungJinHan/HyungJinHan/blob/output/github-contribution-grid-snake.svg" />
