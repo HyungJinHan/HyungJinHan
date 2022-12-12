@@ -30,7 +30,7 @@
     &nbsp;
     <a href='https://www.facebook.com/hyeongjinh1'><img src="https://img.shields.io/badge/HyungJin Han-1877F2?style=flat-square&logo=Facebook&logoColor=white"></a>
     &nbsp;
-    <a href='www.linkedin.com/in/hyungjinhan'><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+    <a href='https://www.linkedin.com/in/hyungjinhan'><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
     <br>
  
 -  ### My Site 🌐
