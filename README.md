@@ -77,7 +77,6 @@
   </a> -->
 </p>
 
- 
 <div align=center>
  
   ![footer](https://capsule-render.vercel.app/api?type=slice&color=282c34&width=100%&height=300&section=footer&text=Contact%20Me!&fontSize=90&fontAlign=45&fontAlignY=66&fontColor=FFFFFF&desc=😁Thanks%20For%20Reading%20My%20Profile&descAlign=33&descAlignY=80&animation=twinkling&rotate=19.5&stroke=66CCFF&strokeWidth=3)
