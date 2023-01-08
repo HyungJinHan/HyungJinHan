@@ -17,7 +17,7 @@ jobs:
           USERNAME: HyungJinHan
       - name: Commit & Push
         run: |
-          git config HyungJin Han github-actions
+          git config HyungJinHan github-actions
           git config han1210_36@naver.com github-actions@github.com
           git add -A .
           git commit -m "generated"
