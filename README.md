@@ -76,7 +76,7 @@
     <img align="center" src="https://github.com/HyungJinHan/HyungJinHan/blob/output/github-contribution-grid-snake.svg" />
   </a> -->
   
-  ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+  ![](https://github.com/HyungJinHan/HyungJinHan/raw/output/github-contribution-grid-snake-dark.svg)
   
 </p>
 
