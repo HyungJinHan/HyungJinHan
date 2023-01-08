@@ -14,10 +14,10 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@0.6.0
         env:
           GITHUB_TOKEN: ${{ secrets.MAIN_TOKEN }}
-          USERNAME: HyungJinHan
+          USERNAME: HyungJin Han
       - name: Commit & Push
         run: |
-          git config HyungJinHan github-actions
+          git config HyungJin Han github-actions
           git config han1210_36@naver.com github-actions@github.com
           git add -A .
           git commit -m "generated"
