@@ -73,13 +73,11 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyungJinHan&layout=compact&theme=react&langs_count=6&hide_border=True&border_radius=12&show_owner=True">
   <br/>
   
-  <!-- ![snake gif](https://github.com/HyungJinHan/HyungJinHan/blob/output/github-contribution-grid-snake.svg) -->
-  
   <a href="https://github.com/Platane/snk" target='_blank'>
     <img align="center" src="https://github.com/HyungJinHan/HyungJinHan/blob/output/github-contribution-grid-snake.svg" />
   </a>
   
-  ![](./profile-3d-contrib/profile-green-animate.svg)
+<!--   ![](./profile-3d-contrib/profile-green-animate.svg) -->
   
 </p>
 
