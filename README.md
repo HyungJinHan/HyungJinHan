@@ -46,6 +46,9 @@
   - <b>Front-End :&nbsp;</b>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=424242">&nbsp;
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black">&nbsp;
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white">&nbsp;
+      <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white">&nbsp;
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white">&nbsp;
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
   - <b>Back-End :&nbsp;</b>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">&nbsp;
