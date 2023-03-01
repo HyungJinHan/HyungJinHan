@@ -24,54 +24,63 @@
   </b>
 
 - ### Contact 📞
-    <a href="mailto:han1210_36@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=han1210_36@naver.com"></a>
+    <a href="mailto:han1210_36@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=han1210_36@naver.com"></a>
     &nbsp;
-    <a href="mailto:hhj961210@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=hhj961210@gmail.com"></a>
+    <a href="mailto:hhj961210@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=hhj961210@gmail.com"></a>
     &nbsp;
-    <a href='https://www.facebook.com/hyeongjinh1'><img src="https://img.shields.io/badge/HyungJin Han-1877F2?style=flat-square&logo=Facebook&logoColor=white"></a>
+    <a href='https://www.facebook.com/hyeongjinh1'><img src="https://img.shields.io/badge/HyungJin Han-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"></a>
     &nbsp;
-    <a href='https://www.linkedin.com/in/hyungjinhan'><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+    <a href='https://www.linkedin.com/in/hyungjinhan'><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <br>
  
 -  ### My Site 🌐
-    <a href='https://velog.io/@hyungjin_han'><img src="https://img.shields.io/badge/Tech Blog-20C997?style=flat-square&logo=velog&logoColor=white"></a>
+    <a href='https://velog.io/@hyungjin_han'><img src="https://img.shields.io/badge/Tech Blog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
     &nbsp;
-    <a href="https://hyungjinhan.github.io/"><img src="https://img.shields.io/badge/GitHub.io (Portfolio)-000000?style=flat-square&logo=github&logoColor=white"/></a>
+    <a href="https://hyungjinhan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio Site-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
     &nbsp;
     <br><br>
 
 ## 🛠️ Tech & Tools 🛠️
 
 - ### Tech Stacks
-  - <b>Front-End :&nbsp;</b>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=424242">&nbsp;
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black">&nbsp;
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white">&nbsp;
-      <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white">&nbsp;
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white">&nbsp;
-      <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white">
+  - <b>Front-End</b>
+      <br>
       
-  - <b>Back-End :&nbsp;</b>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">&nbsp;
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white">&nbsp;
-      <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white">&nbsp;
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=424242">&nbsp;
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">&nbsp;
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">&nbsp;
+      <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=Electron&logoColor=white">&nbsp;
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">&nbsp;
+      <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white">
       
-  - <b>DataBase :&nbsp;</b>
-      <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white">&nbsp;
-      <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white">
+  - <b>Back-End</b>
+      <br>
       
-  - <b>Deploy :&nbsp;</b>
-      <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white">&nbsp;
-      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white">&nbsp;
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">&nbsp;
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white">&nbsp;
+      <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=white">&nbsp;
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+      
+  - <b>DataBase</b>
+      <br>
+      
+      <img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=Mysql&logoColor=white">&nbsp;
+      <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
+      
+  - <b>Deploy</b>
+      <br>
+      
+      <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=white">&nbsp;
+      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white">&nbsp;
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black">
  
 - ### Tools
-    <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">&nbsp;
-    <img src="https://img.shields.io/badge/Mysql Workbench-4479A1?style=flat-square&logo=Mysql&logoColor=white">&nbsp;
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">&nbsp;
-    <a href='https://github.com/HyungJinHan'><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a>&nbsp;
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
+
+    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">&nbsp;
+    <img src="https://img.shields.io/badge/Mysql Workbench-4479A1?style=for-the-badge&logo=Mysql&logoColor=white">&nbsp;
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">&nbsp;
+    <a href='https://github.com/HyungJinHan'><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>&nbsp;
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
     <br><br>
 
 ## 🌱 My GitHub Stats 🌱
