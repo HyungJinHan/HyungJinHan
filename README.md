@@ -9,6 +9,10 @@
 <br><br>
 
 ## 👋 Introduce 👋
+
+<div align='center'>
+<img width='40%' src="https://user-images.githubusercontent.com/104360734/224561382-db1d1254-e62d-4c3a-a9a1-7f984eb98e59.png">
+</div>
   
 - ### About Me 🙋
   <b>
@@ -75,13 +79,28 @@
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black">
  
 - ### Tools
+  - <b>Development</b>
+      <br>
+      
+      <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">&nbsp;
+      <img src="https://img.shields.io/badge/Mysql Workbench-4479A1?style=for-the-badge&logo=Mysql&logoColor=white">
+      
+  - <b>Collaboration</b>
+      <br>
 
-    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">&nbsp;
-    <img src="https://img.shields.io/badge/Mysql Workbench-4479A1?style=for-the-badge&logo=Mysql&logoColor=white">&nbsp;
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">&nbsp;
-    <a href='https://github.com/HyungJinHan'><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>&nbsp;
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
-    <br><br>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">&nbsp;
+      <a href='https://github.com/HyungJinHan'><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"></a>&nbsp;
+      <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">&nbsp;
+      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">&nbsp;
+      <img src="https://img.shields.io/badge/Google Drive-4285F4?style=for-the-badge&logo=Google Drive&logoColor=white">
+      
+  - <b>Design</b>
+      <br>
+      
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
+      
+      
+      <br><br>
 
 ## 🌱 My GitHub Stats 🌱
 
