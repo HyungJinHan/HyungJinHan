@@ -106,8 +106,6 @@
     <img align="center" src="https://github.com/HyungJinHan/HyungJinHan/blob/output/github-contribution-grid-snake.svg" />
   </a>
   
-<!--   ![](./profile-3d-contrib/profile-green-animate.svg) -->
-  
 </p>
 
 <div align=center>
@@ -115,5 +113,3 @@
   ![footer](https://capsule-render.vercel.app/api?type=slice&color=282c34&width=100%&height=300&section=footer&text=Contact%20Me!&fontSize=90&fontAlign=45&fontAlignY=66&fontColor=FFFFFF&desc=😁Thanks%20For%20Reading%20My%20Profile&descAlign=33&descAlignY=80&animation=twinkling&rotate=19.5&stroke=66CCFF&strokeWidth=3)
  
 </div>
-
-<!-- https://velog.io/@danmin20/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8 참고할 만한 포폴  -->
