@@ -108,8 +108,8 @@
 ## My GitHub Stats <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="25" height="25"></picture>
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=HyungJinHan&show_icons=true&theme=react&line_height=24&include_all_commits=True&hide_border=True&border_radius=12&show_owner=true">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyungJinHan&layout=compact&theme=react&langs_count=6&hide_border=True&border_radius=12&show_owner=True">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=HyungJinHan&show_icons=true&theme=react&line_height=24&include_all_commits=true&hide_border=true&border_radius=12&show_owner=true&count_private=true">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyungJinHan&layout=compact&theme=react&langs_count=6&hide_border=true&border_radius=12&show_owner=true&exclude_repo=Python_ML_DL_study,Studying,AI-Fitness-trainer,animal_test">
   <br/>
   
   <!-- <a href="https://github.com/Platane/snk" target='_blank'>
