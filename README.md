@@ -40,7 +40,7 @@
 
 - ### My Site <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width="20" height="20"></picture>
 
-  <a href='https://velog.io/@hyungjin_han'><img src="https://img.shields.io/badge/Tech Blog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
+  <a href='https://hyungjinhan.github.io'><img src="https://img.shields.io/badge/Devlog-000000?style=for-the-badge&logo=github&logoColor=white"></a>
   &nbsp;
   <a href="https://hyungjinhan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio Site-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   &nbsp;
