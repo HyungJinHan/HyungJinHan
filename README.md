@@ -42,7 +42,7 @@
 
 - ### **Tools**&nbsp;&nbsp;<picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="20" height="20"></picture>
 
-  [![Tools](https://skillicons.dev/icons?i=vscode,figma,git,github,notion,androidstudio,gcp)](https://skillicons.dev)
+  [![Tools](https://skillicons.dev/icons?i=vscode,figma,git,github,notion,androidstudio,gcp&perline=8)](https://skillicons.dev)
 
 ## My GitHub Stats <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="25" height="25"></picture>
 
