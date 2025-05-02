@@ -51,9 +51,13 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyungJinHan&layout=compact&theme=react&langs_count=6&hide_border=true&border_radius=12&show_owner=true&exclude_repo=Python_ML_DL_study,Studying,AI-Fitness-trainer,animal_test">
   <br/>
 
-  <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/lines/HyungJinHan?pet-id=2" width="100%"/>
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=HyungJinHan&utm_content=line">
+    <img
+      src="https://render.gitanimals.org/lines/HyungJinHan?pet-id=706000235391159024"
+      width="100%"
+    />
   </a>
+  
   
   <!-- <a href="https://github.com/Platane/snk" target='_blank'>
     <img align="center" src="https://github.com/HyungJinHan/HyungJinHan/blob/output/github-contribution-grid-snake.svg" />
