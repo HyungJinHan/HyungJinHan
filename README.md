@@ -49,8 +49,8 @@ Front-End, Back-End 모두 관심을 가지고 있으며 끊임없이 노력하�
 ## < My GitHub Stats <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="25" height="25"></picture> />
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=HyungJinHan&show_icons=true&theme=react&line_height=24&hide_border=true&border_radius=12&show_owner=true&count_private=true">
-  <!-- &include_all_commits=true -->
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=HyungJinHan&show_icons=true&theme=react&line_height=24&hide_border=true&border_radius=12&show_owner=true&count_private=true&rank_icon=github">
+  <!-- include_all_commits=true / locale=kr / rank_icon=github, percentile or default -->
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyungJinHan&layout=compact&theme=react&langs_count=6&hide_border=true&border_radius=12&show_owner=true&exclude_repo=Python_ML_DL_study,Studying,AI-Fitness-trainer,animal_test">
   <br/>
 
