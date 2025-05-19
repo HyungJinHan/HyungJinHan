@@ -14,35 +14,35 @@
 <img width='40%' src="https://user-images.githubusercontent.com/104360734/224561382-db1d1254-e62d-4c3a-a9a1-7f984eb98e59.png">
 </div>
   
-- ### **About Me**&nbsp;&nbsp;<picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.gif" alt="🫡" width="20" height="20"></picture>
+### **About Me**&nbsp;&nbsp;<picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1fae1/512.gif" alt="🫡" width="20" height="20"></picture>
     
-    안녕하세요, 프론트엔드 개발자 한형진입니다!
+안녕하세요, 프론트엔드 개발자 한형진입니다!
 
-    최고의 개발자가 되기 위해 노력하고 있습니다!
+최고의 개발자가 되기 위해 노력하고 있습니다!
 
-    Front-End, Back-End 모두 관심을 가지고 있으며 끊임없이 노력하고
+Front-End, Back-End 모두 관심을 가지고 있으며 끊임없이 노력하고
 
-    무엇이든 배우려는 사람이 되고자 열심히 공부하고 있습니다!
+무엇이든 배우려는 사람이 되고자 열심히 공부하고 있습니다!
 
-- ### **Contact**&nbsp;&nbsp;<picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48c/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48c/512.gif" alt="💌" width="20" height="20"></picture>
+### **Contact**&nbsp;&nbsp;<picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48c/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48c/512.gif" alt="💌" width="20" height="20"></picture>
 
-  [![gmail](https://skillicons.dev/icons?i=gmail)](mailto:hhj961210@gmail.com)
-  [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hyungjinhan/)
+[![gmail](https://skillicons.dev/icons?i=gmail)](mailto:hhj961210@gmail.com)
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/hyungjinhan/)
 
-- ### My Site <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width="20" height="20"></picture>
+### My Site <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f440/512.gif" alt="👀" width="20" height="20"></picture>
 
-  [![gmail](https://skillicons.dev/icons?i=github)](https://hyungjinhan.github.io)
-  [![linkedin](https://skillicons.dev/icons?i=vercel)](https://hyungjinhan.vercel.app/)
+[![gmail](https://skillicons.dev/icons?i=github)](https://hyungjinhan.github.io)
+[![linkedin](https://skillicons.dev/icons?i=vercel)](https://hyungjinhan.vercel.app/)
 
 ## **Tech & Tools**&nbsp;&nbsp;<picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9be/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9be/512.gif" alt="🦾" width="25" height="25"></picture>
 
-- ### **Studying Tech**&nbsp;&nbsp;<picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2795/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2795/512.gif" alt="➕" width="20" height="20"></picture>
+### **Studying Tech**&nbsp;&nbsp;<picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2795/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2795/512.gif" alt="➕" width="20" height="20"></picture>
 
-  [![Studying Tech 1](https://skillicons.dev/icons?i=js,nodejs,react,ts,electron,next,tailwindcss,styledcomponents,threejs,python,aws,docker,firebase,fastapi,grafana&perline=8)](https://skillicons.dev)
+[![Studying Tech 1](https://skillicons.dev/icons?i=js,nodejs,react,ts,electron,next,tailwindcss,styledcomponents,threejs,python,aws,docker,firebase,fastapi,grafana&perline=8)](https://skillicons.dev)
 
-- ### **Tools**&nbsp;&nbsp;<picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="20" height="20"></picture>
+### **Tools**&nbsp;&nbsp;<picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="20" height="20"></picture>
 
-  [![Tools](https://skillicons.dev/icons?i=vscode,figma,git,github,notion,androidstudio,gcp&perline=8)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,figma,git,github,notion,androidstudio,gcp&perline=8)](https://skillicons.dev)
 
 ## My GitHub Stats <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="25" height="25"></picture>
 
