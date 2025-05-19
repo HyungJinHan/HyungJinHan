@@ -11,8 +11,8 @@
 ## < Introduce <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="25" height="25"></picture> />
 
 <div align='center'>
-<img src="https://user-images.githubusercontent.com/104360734/172914566-d48bc407-5401-441d-b049-ae66019d93d4.gif" width="70%">
-<!--<img width='40%' src="https://user-images.githubusercontent.com/104360734/224561382-db1d1254-e62d-4c3a-a9a1-7f984eb98e59.png"> -->
+  <img src="https://user-images.githubusercontent.com/104360734/172914566-d48bc407-5401-441d-b049-ae66019d93d4.gif" width="70%">
+  <!--<img width='40%' src="https://user-images.githubusercontent.com/104360734/224561382-db1d1254-e62d-4c3a-a9a1-7f984eb98e59.png"> -->
 </div>
 
   
@@ -49,14 +49,23 @@ Front-End, Back-End 모두 관심을 가지고 있으며 끊임없이 노력하�
 ## < My GitHub Stats <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="25" height="25"></picture> />
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=HyungJinHan&show_icons=true&theme=react&line_height=24&include_all_commits=true&hide_border=true&border_radius=12&show_owner=true&count_private=true">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=HyungJinHan&show_icons=true&theme=react&line_height=24&hide_border=true&border_radius=12&show_owner=true&count_private=true">
+  <!-- &include_all_commits=true -->
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyungJinHan&layout=compact&theme=react&langs_count=6&hide_border=true&border_radius=12&show_owner=true&exclude_repo=Python_ML_DL_study,Studying,AI-Fitness-trainer,animal_test">
   <br/>
 
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=HyungJinHan&utm_content=line">
+  <!-- <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=HyungJinHan&utm_content=line">
     <img
       src="https://render.gitanimals.org/lines/HyungJinHan?pet-id=706000235391159024"
       width="100%"
+    />
+  </a> -->
+
+  <br/>
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=HyungJinHan&utm_content=farm">
+    <img
+      src="https://render.gitanimals.org/farms/HyungJinHan"
+      width="50%"
     />
   </a>
   
